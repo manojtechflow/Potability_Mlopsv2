@@ -7,5 +7,5 @@ $schema: https://azuremlschemas.azureedge.net/latest/data.schema.json
 # Datastore: azureml://datastores/<data_store_name>/paths/<path>
 type: uri_file
 name: water-data
-description: taxi dataset
+description: water readings dataset
 path: ../../../data/water-data.csv
